@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'LD Photography',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  tagline: 'Creating Memories That Will Last A Lifetime',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
