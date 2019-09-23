@@ -1,6 +1,6 @@
 ---
-title: ResourceGrid.vue
-subtitle: Easily Display Grid of Posts/Categories Throughout the Site
+title: Portraits
+subtitle: Unique and Individual
 category:
   - About Awake
 author: Daniel Kelly
