@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Beach Sessions
 subtitle: Get Up and Running
 category:
   - About Awake
