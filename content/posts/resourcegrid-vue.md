@@ -1,5 +1,5 @@
 ---
-title: Portraits
+title: Book A Session
 subtitle: Unique and Individual
 category:
   - About Awake
