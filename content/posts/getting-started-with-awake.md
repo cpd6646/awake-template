@@ -1,5 +1,5 @@
 ---
-title: Beach Sessions
+title: Gallery
 subtitle: Get Up and Running
 category:
   - About Awake
